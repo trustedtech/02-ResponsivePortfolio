@@ -1,2 +1,2 @@
-# 02-ResponsivePortfolio
-Incorporating Bootstrap and responsive design techniques
+ 02-ResponsivePortfolio
+Incorporating Bootstrap content and responsive design techniques
