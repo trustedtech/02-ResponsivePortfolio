@@ -120,8 +120,16 @@ footer {
     border-top: 5px cornflowerblue
 }
 
-@media @media screen and (max-width: 640px) {
+@media screen and (max-width: 640px) {
 
-    #navbarNav { }
-    
+    .about-me-img {
+        margin: 0 25% 20px;
+    }
+
+    .about-me-img::after {
+        content: "";
+        display: table;
+        clear: both;
+    }    
+  
   }
